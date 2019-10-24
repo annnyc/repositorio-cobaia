@@ -4,5 +4,7 @@ print("tudo bem?")
 
 print("sim e vc")
 
+print("tudo bem tambem")
+
 while True:
-    print("kkkkkkkkkk")
+    print("hahahahahahah")
